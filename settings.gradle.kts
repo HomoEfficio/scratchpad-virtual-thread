@@ -1,0 +1,1 @@
+rootProject.name = "scratchpad-virtual-thread"
